@@ -76,7 +76,7 @@ namespace FreeDNSUpdateIPService
                         log = new Logger(logDir, "FreeDNSUpdateIPService");
                         break;
                     case "checkInterval_minutes":
-                        if (!Int32.TryParse(ConfigurationManager.AppSettings["checkInterval_minutes"], out checkIntervalMinutes))
+                        if (!Int32.TryParse(ConfigurationManager.AppSettings["checkInterval_minutes"], out checkIntervalMinutes) || checkIntervalMinutes == 0)
                         {
                             log.WriteAlert("Invalid value for 'checkInterval_minutes', defaulting to 15 minutes");
                             checkIntervalMinutes = 15;
