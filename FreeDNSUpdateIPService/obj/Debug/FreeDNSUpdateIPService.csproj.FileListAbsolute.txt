@@ -1,0 +1,9 @@
+\\server\shared\Custom_Software\FreeDNSUpdateIPService\FreeDNSUpdateIPService\bin\Debug\FreeDNSUpdateIPService.exe.config
+\\server\shared\Custom_Software\FreeDNSUpdateIPService\FreeDNSUpdateIPService\obj\Debug\FreeDNSUpdateIPService.csprojResolveAssemblyReference.cache
+\\server\shared\Custom_Software\FreeDNSUpdateIPService\FreeDNSUpdateIPService\bin\Debug\FreeDNSUpdateIPService.exe
+\\server\shared\Custom_Software\FreeDNSUpdateIPService\FreeDNSUpdateIPService\bin\Debug\FreeDNSUpdateIPService.pdb
+\\server\shared\Custom_Software\FreeDNSUpdateIPService\FreeDNSUpdateIPService\obj\Debug\FreeDNSUpdateIPService.FreeDNSUpdateIP.resources
+\\server\shared\Custom_Software\FreeDNSUpdateIPService\FreeDNSUpdateIPService\obj\Debug\FreeDNSUpdateIPService.ProjectInstaller.resources
+\\server\shared\Custom_Software\FreeDNSUpdateIPService\FreeDNSUpdateIPService\obj\Debug\FreeDNSUpdateIPService.csproj.GenerateResource.Cache
+\\server\shared\Custom_Software\FreeDNSUpdateIPService\FreeDNSUpdateIPService\obj\Debug\FreeDNSUpdateIPService.exe
+\\server\shared\Custom_Software\FreeDNSUpdateIPService\FreeDNSUpdateIPService\obj\Debug\FreeDNSUpdateIPService.pdb
